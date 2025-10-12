@@ -33,3 +33,6 @@
 
 # VS Code Extension
 .cph/
+
+UCAP/**
+!UCAP/**/*.cpp
